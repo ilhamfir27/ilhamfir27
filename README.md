@@ -70,4 +70,3 @@ Hi there, I'm ilhamfir27 👋
 
 ---
 
-✅ Langsung Copy semua teks di atas ke README.md, lalu Commit! 😊
