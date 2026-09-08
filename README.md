@@ -79,7 +79,7 @@
 ## 🐍 Snake Game (Kontribusi GitHub)
 
 <p align="center">
-  <img src="https://github.com/ilhamfir27/ilhamfir27/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/ilhamfir27/ilhamfir27/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
