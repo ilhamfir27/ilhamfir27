@@ -10,7 +10,7 @@ Hi there, I'm ilhamfir27 👋
 
 | | |
 |---|---|
-| 🎓 **Role** | SMK Ketingtang |
+| 🎓 **sekolah** | SMK Ketingtang |
 | 🎯 **Focus** | Web Development & Cybersecurity Enthusiast |
 | 🌱 **Currently Learning** | Laravel, Cybersecurity |
 | 📫 **Contact** | zeds32249@gmail.com |
